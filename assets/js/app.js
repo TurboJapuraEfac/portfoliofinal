@@ -106,7 +106,8 @@ let footer = $(`
       <div class="quotes"    style="text-align:center;">
         <i class="fas fa-quote-left" style="color:white;"></i>  
       </div> 
-      <p class="tag" >We have two lives, and the second one begins when we realize we only have one.</p>
+      <p class="tag" >I am Buddhika Weerasinghe. A final year Computer Engineering Undergraduate in Faculty of Engineering, USJ. ( Specialized in AI Engineering, 
+      Data Science and Full Stack Development)</p>
     </div>
 
     <hr>
