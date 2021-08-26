@@ -61,7 +61,7 @@ const projects = [
   },
   {
     title: "Sudoku Solving Algorithm using Computer Vision",
-    cardImage: "assets/images/project-page/sudokuCV1.PNG",
+    cardImage: "assets/images/project-page/SudokuCV1.PNG",
     description: "In this project , Computer Vision character recognition and Backtracking Algortihm have been used. Can solve 9*9 sudoku puzzle real time ",
     tagimg: "",
     Previewlink: "",
