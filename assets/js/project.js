@@ -6,21 +6,21 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "Edumark.lk",
-    cardImage: "assets/images/project-page/edumarknew.png",
+    cardImage: "assets/images/project-page/edumarknew.PNG",
     description: "This is an advanced realtime Full Stack React.JS project which won the Best Techincal Award in Regional Techcamp in Nepal.",
     Previewlink: "https://edumark.lk/",
     Githublink: "",
   },
   {
     title: "Portfolio Site",
-    cardImage: "assets/images/project-page/portfolionew.png",
+    cardImage: "assets/images/project-page/portfolionew.PNG",
     description: "This project uses HTML,CSS,JS and React. It is hosted using Github pages and SEO optimized for better ranking",
     Previewlink: "https://buddhikaweerasinghe.live/",
     Githublink: "https://github.com/TurboJapuraEfac/portfoliofinal",
   },
   {
     title: "Natural Language Processing Project",
-    cardImage: "assets/images/project-page/NLPc.png",
+    cardImage: "assets/images/project-page/NLPc.PNG",
     description: "Analyzed how the Covid19 has boosted depression around the world using Natural Language Processing methods ",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
@@ -44,7 +44,7 @@ const projects = [
   },
   {
     title: "ExhibitIT video conferencing",
-    cardImage: "assets/images/project-page/video1.png",
+    cardImage: "assets/images/project-page/video1.PNG",
     description: "ExhibitIt Video Conferencing is a Fast, Secure, Easy to use web app that Directly connect with exhibitors with no downloading built with WebRTC. ",
     tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
     Previewlink: "",
@@ -52,7 +52,7 @@ const projects = [
   },
   {
     title: "Sudoku Solving Algorithm using Advanced Algos",
-    cardImage: "assets/images/project-page/sudokuAA1.png",
+    cardImage: "assets/images/project-page/sudokuAA1.PNG",
     description:
       "In this project , Exact Cover method has been used with Knuth’s algorithm X. This algorithm can solve 9*9 and 16*16 algorithms in miliseconds",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
@@ -61,7 +61,7 @@ const projects = [
   },
   {
     title: "Sudoku Solving Algorithm using Computer Vision",
-    cardImage: "assets/images/project-page/sudokuCV1.png",
+    cardImage: "assets/images/project-page/sudokuCV1.PNG",
     description: "In this project , Computer Vision character recognition and Backtracking Algortihm have been used. Can solve 9*9 sudoku puzzle real time ",
     tagimg: "",
     Previewlink: "",
