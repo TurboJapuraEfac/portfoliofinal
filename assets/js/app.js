@@ -107,8 +107,26 @@ let footer = $(`
         <i class="fas fa-quote-left" style="color:white;"></i>  
       </div> 
       <p class="tag" >I am Buddhika Weerasinghe. A final year Computer Engineering Undergraduate in Faculty of Engineering, USJ. <br> ( Specialized in AI Engineering, 
-      Data Science and Full Stack Development)</p>
+      Data Science and Full Stack Development) <br> I am super fan of <a href="https://www.youtube.com/channel/UCESLZhusAkFfsNsApnjF_Cg" target="_blank">All in Podcast</a> with <a href="https://www.youtube.com/watch?v=PMotykw0SIk" target="_blank">Chamath Palihapitiya</a> & <a href="https://www.youtube.com/channel/UCh_dVD10YuSghle8g6yjePg" target="_blank">Naval Ravikanth Podcast</a>.</p>
+   
+      </p> 
+      
+      
     </div>
+    <div class="container-fluid quote-container">
+      <h3 class="tag" >My Mission</h3>
+      <p class="tag" >" Finding out the people who need me the most<br> Finding out the business that needs me the most <br> Finding out the thing I love to do for the rest of my life without getting tired"</p> 
+      </p> 
+    </div>
+
+    </div>
+    <div class="container-fluid quote-container">
+      <h3 class="tag" >My Vision</h3>
+      <p class="tag" >" There is a difference between knowing the path and walking the path - Morpheus "
+      <br> My overall vision is shaped by <a href="https://en.wikipedia.org/wiki/Naval_Ravikant" target="_blank">Naval Ravikanth Podcast</a> , <a href="https://www.jordanbpeterson.com/" target="_blank">Jordan B Peterson podcast</a> ,<a href="https://www.youtube.com/channel/UCzQUP1qoWDoEbmsQxvdjxgQ" target="_blank">Joe Rogan podcast</a>, and <a href="https://www.youtube.com/channel/UCESLZhusAkFfsNsApnjF_Cg" target="_blank">All in Podcast</a></p>
+      </p>  
+    </div>
+
 
     <hr>
     <div class="container">
