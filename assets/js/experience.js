@@ -64,11 +64,42 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
+    title: "Regional Techcamp on Good Governance",
+    cardImage: "assets/images/experience-page/ideationkll.PNG",
+    description:
+      "Got selected to represent SL in the Regional Techcamp which was organized by American Embassy Nepal (a fully paid 4 day tour to Nepal)",
+  },
+  {
+    title: "Regional Techcamp on Good Governance ",
+    cardImage: "assets/images/experience-page/techcamp.PNG",
+    description:
+      "Won the best Technology Award for edumark.lk & 500 USD Prize & Worked with other members for about an year ",
+  },
+  {
     title: "Microsoft Cloud Skills Challenge 2021 - USJ",
     cardImage: "assets/images/experience-page/CSC2.jpeg",
     description:
-      "Organizing Committee Leader in University of Sri Jayewardanepura .",
+      "Organizing Committee Leader in University of Sri Jayewardanepura and the Moderator for the launching event.",
   },
+  {
+    title: "Innovate Sri Lanka Award Ceromony ",
+    cardImage: "assets/images/experience-page/innovatesl.jpg",
+    description:
+      "Was a member of the team that won the 2nd place in Robotics Category",
+  },
+  {
+    title: "Microsoft Cloud skills Challenge",
+    cardImage: "assets/images/experience-page/csc.jpeg",
+    description:
+      "Finished Microsoft Cloud Skills Challenge in top 20 in the University and won SWAGS, 100 USD voucher to face Azure Fundamentals exam.",
+  },
+  {
+    title: "Best Winter Project - Tribute Award Ceremony",
+    cardImage: "assets/images/experience-page/trib.jpeg",
+    description:
+      "We won the best winter project award in 2019 for Project Inzpire 11.00 which was held in KDU Auditorium",
+  },
+  ,
   {
     title: "Project Inzpire 13.0 - AIESEC USJ 2019",
     cardImage: "assets/images/experience-page/inz13.jpeg",
@@ -100,23 +131,50 @@ const volunteershipcards = [
       "Organized the project WeGo Lanka inline with the SDG goal 8 : Decent work & Economic Growth & Actively engaged.",
   },
   {
-    title: "Regional Techcamp on Good Governance",
-    cardImage: "assets/images/experience-page/ideationkll.PNG",
-    description:
-      "Got selected to represent Sri Lanka in the Regional Techcamp which was organized by American Embassy Nepal",
-  },
-  {
-    title: "Regional Techcamp on Good Governance ",
-    cardImage: "assets/images/experience-page/techcamp.PNG",
-    description:
-      "Won the best Technology Award for edumark.lk & 500 USD Prize & Worked with other members for about an year ",
-  },
-  {
-    title: "JXLDS - AIESEC USJ 2019",
+    title: "JXLDS - AIESEC USJ 2018",
     cardImage: "assets/images/experience-page/jxlds.jpg",
     description:
       "Participated in the 3 day Leadership Development Seminar which was conducted by AIESEC in USJ.",
   },
+  {
+    title: "NLDS - AIESEC Sri Lanka 2019",
+    cardImage: "assets/images/experience-page/nlds1.jpeg",
+    description:
+      "Participated in the 4 day National Leadership Development Seminar representing AIESEC In USJ which was organized by AIESEC Sri Lanka.",
+  },
+  ,
+  {
+    title: "Business Development Bootcamp - 2019",
+    cardImage: "assets/images/experience-page/BD.PNG",
+    description:
+      "Participated in Business Development Bootcamp which was conducted by Linda Marik (CEO of Likuid Spaces).",
+  },
+   ,
+  {
+    title: "CSR events under Project INZPIRE 11.0",
+    cardImage: "assets/images/experience-page/visaka.jpeg",
+    description:
+      "Arranged and conducted school sessions in Visaka Vidyalaya and Royal College with the help of Sasnaka Sansada .",
+  },
+  {
+    title: "Inter Faculty Sports - Basket Ball",
+    cardImage: "assets/images/experience-page/basket.jpeg",
+    description:
+      "Represented Faculty of Engineering in inter faculty sportsmeet against Faculty of Medicine ",
+  },
+  {
+    title: "Japura Premier League - Cricket",
+    cardImage: "assets/images/experience-page/jpl.jpeg",
+    description:
+      "Represented Faculty of Engineering in Japura Premier League tournement which was organized by BA department ",
+  }
+  ,
+  {
+    title: "E-ZAGA 19 Sports Festival - Cricket",
+    cardImage: "assets/images/experience-page/ezaga.jpeg",
+    description:
+      "Was a member of the team that won the intra batch cricket challenge <br> ( I took 5 wickets in 3 matches)  ",
+  }
 ];
 
 const showCards = () => {
