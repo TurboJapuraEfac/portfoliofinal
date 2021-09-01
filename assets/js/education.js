@@ -41,20 +41,15 @@ const moocscards = [
     cardImage: "assets/images/education-page/react.PNG",
   },
   {
-    title: "Server-side Development with NodeJS, Express and MongoDB",
-    cardImage: "assets/images/education-page/coursera1.png",
+    title: "How to win a Kaggle Competition",
+    cardImage: "assets/images/education-page/htwak.PNG",
     moocLink: "https://www.coursera.org/learn/server-side-nodejs",
   },
   {
-    title: "XML-AJAX",
-    cardImage: "assets/images/education-page/udemy.png",
+    title: "Building Deep Learning models with Tensorflow",
+    cardImage: "assets/images/education-page/ibmtf.PNG",
     moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
-  },
-  {
-    title: "Data Structures & Algorithms",
-    cardImage: "assets/images/education-page/udacity_logo.png",
-    moocLink: "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
-  },
+  }
 ];
 
 const experience = [
