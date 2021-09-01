@@ -110,6 +110,10 @@ let footer = $(`
       Data Science and Full Stack Development) <br> I am super fan of <a href="https://www.youtube.com/channel/UCESLZhusAkFfsNsApnjF_Cg" target="_blank">All in Podcast</a> with <a href="https://www.youtube.com/watch?v=PMotykw0SIk" target="_blank">Chamath Palihapitiya</a> & <a href="https://www.youtube.com/channel/UCh_dVD10YuSghle8g6yjePg" target="_blank">Naval Ravikanth Podcast</a>.</p>
    
       </p> 
+      <br>
+      <br>
+      <br>
+       <br>
       
       
     </div>
